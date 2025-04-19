@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rim 👋  
+I'm an aspiring Data/Business Analyst with a passion for analytics, dashboards and data storytelling.
 
-<!--
-**Rim-source/Rim-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- R
+- Excel & Power BI
+- Data Cleaning & Visualization
+- Business Case Analysis
 
-Here are some ideas to get you started:
+## 📂 Projects
+I'm currently working on and organizing my first projects to showcase my skills in Python, SQL, R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coming soon: 
+- ... 🔍
+
+Stay tuned — I’ll be uploading my first projects shortly!
