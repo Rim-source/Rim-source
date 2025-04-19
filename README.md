@@ -5,7 +5,7 @@ I'm an aspiring Data/Business Analyst with a passion for analytics, dashboards a
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL
 - R
-- Excel & Power BI
+- Excel & Tableau
 - Data Cleaning & Visualization
 - Business Case Analysis
 
